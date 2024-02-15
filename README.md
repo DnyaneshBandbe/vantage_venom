@@ -3,7 +3,6 @@
 Table of Contents 
 I. Overview 
 II. Vision
-`
 III. Goals and Opportunities
   Business Goals
   Business Opportunity
@@ -33,3 +32,4 @@ VIII. Milestones / Release Plan
 IX. ADRs
   ADR 1. Hosting Platform
   ADR 2. Mobile App Platform
+`
