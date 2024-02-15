@@ -27,7 +27,7 @@ Table of Contents
 - High-Level Architecture
 - Selected Topics of Mid-Level Architecture
   Topic1
-  Topic1
+  Topic2
 - Milestones / Release Plan 
 - ADRs
   ADR 1. Hosting Platform
