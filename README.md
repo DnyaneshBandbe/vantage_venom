@@ -15,7 +15,7 @@ Table of Contents
   Case 3.
   Outlier Considerations / failures / errors
 - Requirements
-    Prioritized Architecture Characteristics
+      Prioritized Architecture Characteristics
     1. Agility
     2. Viability
     3. Flexibility
