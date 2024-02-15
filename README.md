@@ -1,20 +1,20 @@
 # Vantage Venoms - MonitorMe
-`
+
 Table of Contents 
-- I. Overview 
-- II. Vision
-- III. Goals and Opportunities
-    - Business Goals
+- Overview 
+- Vision
+- Goals and Opportunities
+  Business Goals
   Business Opportunity
   Partners
   Competitors
-IV. Use Cases
+- Use Cases
   Personas
   Case 1. sdsdd (DB)
   Case 2. 
   Case 3.
   Outlier Considerations / failures / errors
-V. Requirements
+- Requirements
   Prioritized Architecture Characteristics
     1. Agility
     2. Viability
@@ -24,15 +24,15 @@ V. Requirements
     6. Scalability
     7. Performance
   Design Constraints
-VI. High-Level Architecture
-VII. Selected Topics of Mid-Level Architecture
+- High-Level Architecture
+- Selected Topics of Mid-Level Architecture
   Topic1
   Topic1
-VIII. Milestones / Release Plan 
-IX. ADRs
+- Milestones / Release Plan 
+- ADRs
   ADR 1. Hosting Platform
   ADR 2. Mobile App Platform
-`
+
 
 Steps of adding Hpyerlink: warp text in [] followed by wrapping the URL in () for example
 This will show the [name for the hyperlink](https:linkname)]
