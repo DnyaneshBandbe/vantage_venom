@@ -1,6 +1,6 @@
 # Vantage Venoms - MonitorMe
 `
-> Table of Contents >
+Table of Contents 
 I. Overview 
 II. Vision
 `
