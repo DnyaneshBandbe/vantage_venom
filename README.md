@@ -15,7 +15,7 @@ Table of Contents
   Case 3.
   Outlier Considerations / failures / errors
 - Requirements
-  Prioritized Architecture Characteristics
+    Prioritized Architecture Characteristics
     1. Agility
     2. Viability
     3. Flexibility
@@ -23,7 +23,7 @@ Table of Contents
     5. Security
     6. Scalability
     7. Performance
-  Design Constraints
+    8. Design Constraints
 - High-Level Architecture
 - Selected Topics of Mid-Level Architecture
   Topic1
