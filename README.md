@@ -14,7 +14,7 @@
     - Case 2. 
     - Case 3.
 - Outlier Considerations / failures / errors
-- Requirements
+- Requirements \
     Prioritized Architecture Characteristics
     - Agility
     - Viability
@@ -45,8 +45,60 @@ Adding relative hyperlink for linking information within this repo. This can als
 This will show the [name of the link within this repo](docs/readme.md)
 
 
+<br /> 
+
+## **Next Section** 
 
 
+
+<br /> 
+
+## **Overview** 
+
+
+<br /> 
+
+## **Vision** 
+
+
+<br /> 
+
+## **Goals & Opportunities** 
+
+
+<br /> 
+
+## **Use Cases** 
+
+
+<br /> 
+
+## **Outlier Considerations / failures / errors** 
+
+
+<br /> 
+
+## **Requirements** 
+
+
+<br /> 
+
+## **High Level Architecture** 
+
+
+<br /> 
+
+## **Selected Topics of Mid-Level Architecture** 
+
+
+<br /> 
+
+## **Milestones / Release Plan** 
+
+
+<br /> 
+
+## **ADRs** 
 
 
 
