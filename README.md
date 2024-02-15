@@ -36,6 +36,7 @@
 
 <br /> 
 
+
 ## **Next Section** 
 
 Steps of adding Hpyerlink: warp text in [] followed by wrapping the URL in () for example \
@@ -47,58 +48,53 @@ This will show the [name of the link within this repo](docs/readme.md)
 
 <br /> 
 
-## **Next Section** 
-
-
-
-<br /> 
 
 ## **Overview** 
-
+Add text here
 
 <br /> 
 
 ## **Vision** 
-
+Add text here
 
 <br /> 
 
 ## **Goals & Opportunities** 
-
+Add text here
 
 <br /> 
 
 ## **Use Cases** 
-
+Add text here
 
 <br /> 
 
 ## **Outlier Considerations / failures / errors** 
-
+Add text here
 
 <br /> 
 
 ## **Requirements** 
-
+Add text here
 
 <br /> 
 
 ## **High Level Architecture** 
-
+Add text here
 
 <br /> 
 
 ## **Selected Topics of Mid-Level Architecture** 
-
+Add text here
 
 <br /> 
 
 ## **Milestones / Release Plan** 
-
+Add text here
 
 <br /> 
 
 ## **ADRs** 
-
+Add text here
 
 
