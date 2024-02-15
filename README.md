@@ -1,10 +1,10 @@
 # Vantage Venoms - MonitorMe
 `
 Table of Contents 
-I. Overview 
-II. Vision
-III. Goals and Opportunities
-  Business Goals
+- I. Overview 
+- II. Vision
+- III. Goals and Opportunities
+    - Business Goals
   Business Opportunity
   Partners
   Competitors
@@ -33,3 +33,16 @@ IX. ADRs
   ADR 1. Hosting Platform
   ADR 2. Mobile App Platform
 `
+
+Steps of adding Hpyerlink: warp text in [] followed by wrapping the URL in () for example
+This will show the [name for the hyperlink](https:linkname)]
+
+Adding relative hyperlink for linking information within this repo. This can also be used for images
+This will show the [name of the link within this repo](docs/readme.md)
+
+
+
+
+
+
+
