@@ -60,7 +60,8 @@ Strive for a world where patients and healthcare professionals are empowered, gu
 <br /> 
 
 ## **Goals & Opportunities** 
-Add text here
+- Track patient health data from smart devices and display to health care professionals
+- Alert health care professionals in case of vitals breaching defined thresholds
 
 <br /> 
 
