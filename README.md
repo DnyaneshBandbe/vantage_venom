@@ -50,12 +50,12 @@ This will show the [name of the link within this repo](docs/readme.md)
 
 
 ## **Overview** 
-Add text here
+StayHealthy Inc. is expanding into a new market and require a new patient medical system that tracks patients key vital signs
 
 <br /> 
 
 ## **Vision** 
-Add text here
+Strive for a world where patients and healthcare professionals are empowered, guided by data-driven insights, to lead healthly lives.
 
 <br /> 
 
