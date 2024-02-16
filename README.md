@@ -9,7 +9,7 @@
     - Partners
     - Competitors
 - Use Cases
-    - Personas
+    - Personas (Patient/Doctor/Nurse/Receptionist/Customer Care/Pathologist/Administrator)
     - Case 1. Reading data from patient monitoring devices (LG)
     - Case 2. Patient vital sign hisoty with filter (LG)
     - Case 3. Admin console - Alert configuration based on vital sign (LG)
