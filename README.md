@@ -10,10 +10,13 @@
     - Competitors
 - Use Cases
     - Personas
-    - Case 1. 
-    - Case 2. 
-    - Case 3.
-- Outlier Considerations / failures / errors
+    - Case 1. Reading data from patient monitoring devices (LG)
+    - Case 2. Patient vital sign hisoty with filter (LG)
+    - Case 3. Admin console - Alert configuration based on vital sign (LG)
+    - Case 4. Push notification / alart based on the threshold configuration (LG)
+    - Case 5. Generating patient snapshot based on the vital signs (LG)
+    - Case 6. Uploading patient snapshot into MyMedicalData (LG)
+- Outlier Considerations / failures / errors 
 - Requirements \
     Prioritized Architecture Characteristics
     - Agility
