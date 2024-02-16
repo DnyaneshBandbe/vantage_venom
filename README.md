@@ -75,12 +75,14 @@ Add text here
 <br /> 
 
 ## **Outlier Considerations / failures / errors** 
-Add text here
+- Data at rest and transit within MonitorMe stations at Hospital will be encrypted according to CPRA, HIPPA
 
 <br /> 
 
 ## **Requirements** 
-Add text here
+- Data at rest and transit within MonitorMe stations at Hospital will be encrypted according to CPRA, HIPPA
+- Split by Functional requirements
+- Split by Technical requirements
 
 <br /> 
 
